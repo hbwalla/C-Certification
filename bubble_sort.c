@@ -12,8 +12,6 @@ int main(void) {
    }
 
    do {
-    // least to greatest
-    // Swapped is reset every time a pass is made
         swapped = 0;
         printf("Beginning of loop. Swapped: %d\n", swapped);
         // One pass`
